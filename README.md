@@ -1,2 +1,2 @@
 # Docker
-Übungen zu Docker
+Übungen und Grundlagen zu Docker
